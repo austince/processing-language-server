@@ -12,4 +12,9 @@ Here is a good example of a [generic language server written in Typescript](http
 
 The beginning of this project (and this README) will be a collection of resources and preliminary plans. Feel free to join in.  
 
+
+**Other:**  
+* https://langserver.org/
+
+**Examples:**   
 * https://github.com/sourcegraph/javascript-typescript-langserver 
