@@ -1,7 +1,9 @@
 # Processing Language Server - PLS - _Please_ (?)
 A language server for the [Processing Language](https://processing.org).  
 
-This repository is a placeholder to remind me to start on this idea. Until a good language server is built, using Processing will be primarily restricted to the Processing IDE. While the IDE serves a great purpose, decoupling the language from the app will allow Processing developers to spend more time on language features and libraries.  
+This repository is a placeholder to remind me to start on this idea. Until a good language server is built, using Processing will be primarily restricted to the Processing IDE. While the IDE serves a great purpose, decoupling the language from the app will allow Processing developers to spend more time on language features and libraries.    
+
+A Language server would be able to support any IDE that supports the protocol for clients: Atom, VS Code, and maybe one day official Jetbrains support.
 
 ## Inspirations + Implementation
 The most up-and-coming use of the PLS is VS Code. The server will be implemented using [Microsoft's Language Server Prototcol](https://github.com/Microsoft/language-server-protocol).  
